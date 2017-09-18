@@ -1,5 +1,5 @@
 ---
-- hosts: slaves
+
   
   vars:
     http_port: 80
